@@ -137,4 +137,4 @@ Stretch Questions
 				
 
     5. In your own words, explain the box model. What is the fix for the box model? 
-
+	The box model is the model in which html elements are placed onto the DOM.
